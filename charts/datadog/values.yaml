@@ -6,3 +6,4 @@ datadog:
     tlsVerify: false
 clusterAgent:
   enabled: true
+  token: "abcdabcdabcdabcdabcdabcdabcdabcd"
